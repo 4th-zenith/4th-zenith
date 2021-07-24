@@ -4,6 +4,6 @@
 - 📫 Add me in Discord! Zenith#8705
 
 <!---
-WisdomDatBoi/WisdomDatBoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-zenith/info-zenith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
