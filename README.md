@@ -38,4 +38,4 @@
 
 <p align="center">
 <a href="https://discord.gg/P3DjqZYw2Z"><img alt="Discord" src="https://img.shields.io/badge/Discord-The_Coalition-blue?style=flat-square&logo=discord"></a>
-<a href="https://www.instagram.com/zxnith._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/zxnith._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zxnith.__-blue?style=flat-square&logo=instagram"></a>
