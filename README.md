@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://media.discordapp.net/attachments/895227194849247252/898175976343748608/image_2021-10-14_184558.png">
 
 <h2> Hey there! I'm Zenith!</h2>
 
